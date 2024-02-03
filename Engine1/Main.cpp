@@ -4,6 +4,7 @@
 
 /*
 * --------------setting up TortoiseSVN---------------------------
+* //ref link:https://www.youtube.com/watch?v=osnP8MGO0PQ&list=PLV7gcRAhaSFvaFsCa9-7B67XzKuzuFHtT&index=1
 *
 * It's very important to prepare TortoiseSVN BEFORE creating any of the Visual Studio projects, otherwise it will probably be a nightmare (or at least it was for me).
 
