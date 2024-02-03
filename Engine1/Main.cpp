@@ -1,4 +1,5 @@
 
+
 //---------------------- Initial Folder Setup ------------------------
 //ref link:https://www.youtube.com/watch?v=pNsqHoE49eg
 
@@ -23,6 +24,8 @@
 
 //->ConfigProperties->IntermediateDirectory->$(Configuration)\Tmp\
 
+//--------------------- Making a Sandbox Game --------------------
+//ref link:https://www.youtube.com/watch?v=_5JLA2-_0JM
 
 void main()
 {
